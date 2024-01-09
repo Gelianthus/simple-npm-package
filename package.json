@@ -1,6 +1,6 @@
 {
   "name": "listed-taylor-swift-albums",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "types": "types/index.d.ts",
   "description": "trying to create a simple npm package",
   "main": "index.js",
