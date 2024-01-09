@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo&family=IM+Fell+DW+Pica:ital@1&family=Permanent+Marker&family=Rochester&family=Sacramento&family=Satisfy&family=UnifrakturMaguntia&display=swap');
+
+.taylor-swift {
+    font-family: "Sacramento", sans-serif;
+}
+
+.fearless {
+    font-family: "Archivo", sans-serif;
+}
+
+.speak-now {
+    font-family: "Rochester", cursive;
+}
+
+.red {
+    font-family: "Anton", sans-serif;
+}
+
+.nineteen-89 {
+    font-family: "Permanent Marker", cursive;
+}
+
+.reputation {
+    font-family: "UnifrakturMaguntia", Arial, Helvetica, sans-serif;
+}
+
+.lover {
+    font-family: "Satisfy", sans-serif;
+}
+
+.folklore-and-sister {
+    font-family: "IM Fell DW Pica", cursive;
+}
